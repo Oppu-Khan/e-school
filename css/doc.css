@@ -1,0 +1,21 @@
+.box{
+	height: 200px;
+	background-color: gold;
+}
+.c_alert{
+	color:red;
+	background-color:gold;
+	border: 1px solid green;
+}
+.o_1{
+	width: 200px;
+	color: brown;
+	background-color: gold;
+}
+.gb{
+	width: 100px;
+	height: 50px;
+	background-color: red;
+	color: white;
+	border: solid green 2px;
+}
